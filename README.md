@@ -1,13 +1,14 @@
+## 🚀 Bank Management System in C++
+# 📌 Overview
+The Bank Management System is a console-based C++ application that simulates basic banking operations. It allows users to create accounts, deposit and withdraw funds, check balances, and view transaction history. The system leverages Object-Oriented Programming (OOP) and file handling to ensure data persistence.
 
+🎯 Features
+✅ Account Management – Create and manage multiple bank accounts
+✅ Deposit & Withdrawal – Securely deposit and withdraw funds
+✅ Balance Inquiry – Check account balances in real-time
+✅ Transaction History – Track all transactions for transparency
+✅ Data Persistence – File-based storage to save user data
 
-# Bank Management System in C++
-
-## This repository contains a simple yet efficient Bank Management System implemented in C++. It includes core banking functionalities such as account creation, deposit, withdrawal, balance inquiry, and transaction history management. The project demonstrates object-oriented programming principles, file handling, and basic data structures in C++.
-
-Features:
-Create and manage bank accounts
-Deposit and withdraw funds
-Check account balance
-View transaction history
-File-based data storage for persistence
-🔹 Tech Stack: C++ | File Handling | OOP
+🛠️ Technologies Used
+Programming Language: C++
+Concepts Used: OOP (Classes, Inheritance, Encapsulation), File Handling, Data Structures
